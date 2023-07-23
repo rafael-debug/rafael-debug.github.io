@@ -238,3 +238,31 @@
     }
   
   }
+
+
+.skills-box {
+  margin-top: 20px;
+}
+
+.skills-title {
+  font-weight: bold;
+}
+
+.skill-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.skill-item i {
+  margin-right: 10px;
+}
+
+.skill-progress {
+  height: 10px;
+  background-color: #ddd;
+}
+
+.skill-progress {
+  background-color: #4caf50; /* Cor da barra de progresso preenchida */
+}
