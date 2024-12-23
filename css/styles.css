@@ -244,3 +244,9 @@ iconify-icon[icon="simple-icons:datadog"] {
     height: 45px; /* Ajuste a altura */
 }
 
+iconify-icon[icon="simple-icons:cisco"] {
+    font-size: 45px; /* Altere o tamanho conforme necessário */
+    width: 45px; /* Ajuste a largura */
+    height: 45px; /* Ajuste a altura */
+}
+
